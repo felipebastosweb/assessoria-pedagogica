@@ -16,4 +16,6 @@ Este aplicativo tem como objetivo garantir que as Intituições de Ensino parcei
 - Cadastros de Escolas
 - Plano Político Pedagógico
 - Cadastros de Alunos
+  - Construção do PEI (Plano Educacional Individualizado)
 - Cadastros de Profissionais
+- Cadastros de Planos de Aula
